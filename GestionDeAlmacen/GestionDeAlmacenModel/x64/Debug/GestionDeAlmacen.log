@@ -1,0 +1,180 @@
+﻿  Cinta.cpp
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Cinta.h(10,20): error C3149: 'System::String': no se puede usar este tipo aquí sin un objeto '^' de nivel superior
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Cinta.cpp(3,1): error C2653: 'Cinta': no es un nombre de clase o espacio de nombres
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Cinta.cpp(4,1): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Cinta.cpp(5,1): warning C4508: 'Cinta': la función debe devolver un valor; se supone que el tipo de valor devuelto es 'void'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Cinta.cpp(7,1): error C2653: 'Cinta': no es un nombre de clase o espacio de nombres
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Cinta.cpp(8,1): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Cinta.cpp(9,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Cinta.cpp(10,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Cinta.cpp(11,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Cinta.cpp(12,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Cinta.cpp(13,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Cinta.cpp(14,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Cinta.cpp(15,1): warning C4508: 'Cinta': la función debe devolver un valor; se supone que el tipo de valor devuelto es 'void'
+  Estanteria.cpp
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.h(9,74): error C2065: 'Producto': identificador no declarado
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.h(9): error C2059: error de sintaxis: '>'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.h(9,13): error C2059: error de sintaxis: '>'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.h(9,13): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'unknown-type'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.h(9,13): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.h(19,8): error C2065: 'Producto': identificador no declarado
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.h(19,17): error C2059: error de sintaxis: '>'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.h(19,33): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'unknown-type'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.h(19,33): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.cpp(2,1): error C2653: 'Estanteria': no es un nombre de clase o espacio de nombres
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.cpp(3,1): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.cpp(4,1): warning C4508: 'Estanteria': la función debe devolver un valor; se supone que el tipo de valor devuelto es 'void'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.cpp(6,1): error C2653: 'Estanteria': no es un nombre de clase o espacio de nombres
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.cpp(6,84): error C2065: 'Producto': identificador no declarado
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.cpp(6,93): error C2059: error de sintaxis: '>'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.cpp(6,109): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'unknown-type'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.cpp(6,109): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.cpp(7,1): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.cpp(8,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.cpp(9,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.cpp(10,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.cpp(11,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.cpp(12,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.cpp(13,1): warning C4508: 'Estanteria': la función debe devolver un valor; se supone que el tipo de valor devuelto es 'void'
+  FormularioProducto.cpp
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\FormularioProducto.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\FormularioProducto.h(12,105): error C2065: 'Producto': identificador no declarado
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\FormularioProducto.h(12): error C2059: error de sintaxis: '>'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\FormularioProducto.h(12,21): error C2059: error de sintaxis: '>'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\FormularioProducto.h(12,21): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'unknown-type'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\FormularioProducto.h(12,21): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\FormularioProducto.h(26,8): error C2065: 'Producto': identificador no declarado
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\FormularioProducto.h(26,17): error C2059: error de sintaxis: '>'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\FormularioProducto.h(26,33): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'unknown-type'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\FormularioProducto.h(26,33): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\FormularioProducto.cpp(3,1): error C2653: 'FormularioProducto': no es un nombre de clase o espacio de nombres
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\FormularioProducto.cpp(4,1): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\FormularioProducto.cpp(5,1): warning C4508: 'FormularioProducto': la función debe devolver un valor; se supone que el tipo de valor devuelto es 'void'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\FormularioProducto.cpp(7,1): error C2653: 'FormularioProducto': no es un nombre de clase o espacio de nombres
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\FormularioProducto.cpp(7,123): error C2065: 'Producto': identificador no declarado
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\FormularioProducto.cpp(7,132): error C2059: error de sintaxis: '>'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\FormularioProducto.cpp(7,148): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'unknown-type'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\FormularioProducto.cpp(7,148): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\FormularioProducto.cpp(8,1): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\FormularioProducto.cpp(9,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\FormularioProducto.cpp(10,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\FormularioProducto.cpp(11,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\FormularioProducto.cpp(12,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\FormularioProducto.cpp(13,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\FormularioProducto.cpp(14,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\FormularioProducto.cpp(15,1): warning C4508: 'FormularioProducto': la función debe devolver un valor; se supone que el tipo de valor devuelto es 'void'
+  Interseccion.cpp
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Cinta.h(10,20): error C3149: 'System::String': no se puede usar este tipo aquí sin un objeto '^' de nivel superior
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Interseccion.cpp(3,1): error C2653: 'Interseccion': no es un nombre de clase o espacio de nombres
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Interseccion.cpp(4,1): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Interseccion.cpp(5,1): warning C4508: 'Interseccion': la función debe devolver un valor; se supone que el tipo de valor devuelto es 'void'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Interseccion.cpp(7,1): error C2653: 'Interseccion': no es un nombre de clase o espacio de nombres
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Interseccion.cpp(7,63): error C2065: 'Cinta': identificador no declarado
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Interseccion.cpp(7,69): error C2059: error de sintaxis: '>'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Interseccion.cpp(7,82): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'unknown-type'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Interseccion.cpp(7,82): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Interseccion.cpp(8,1): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Interseccion.cpp(9,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Interseccion.cpp(10,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Interseccion.cpp(11,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Interseccion.cpp(12,1): warning C4508: 'Interseccion': la función debe devolver un valor; se supone que el tipo de valor devuelto es 'void'
+  Mapa.cpp
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Cinta.h(10,20): error C3149: 'System::String': no se puede usar este tipo aquí sin un objeto '^' de nivel superior
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.h(9,74): error C2065: 'Producto': identificador no declarado
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.h(9): error C2059: error de sintaxis: '>'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.h(9,13): error C2059: error de sintaxis: '>'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.h(9,13): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'unknown-type'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.h(9,13): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.h(19,8): error C2065: 'Producto': identificador no declarado
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.h(19,17): error C2059: error de sintaxis: '>'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.h(19,33): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'unknown-type'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.h(19,33): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Mapa.h(14,92): error C2065: 'Interseccion': identificador no declarado
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Mapa.h(14): error C2059: error de sintaxis: '>'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Mapa.h(14,134): error C2065: 'Pasillo': identificador no declarado
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Mapa.h(14,6): error C2059: error de sintaxis: '>'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Mapa.h(14,6): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'unknown-type'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Mapa.h(14,6): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Mapa.h(25,7): error C2065: 'Interseccion': identificador no declarado
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Mapa.h(25,20): error C2059: error de sintaxis: '>'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Mapa.h(25,42): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'unknown-type'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Mapa.h(25,42): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Mapa.h(26,7): error C2065: 'Pasillo': identificador no declarado
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Mapa.h(26,15): error C2059: error de sintaxis: '>'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Mapa.h(26,30): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'unknown-type'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Mapa.h(26,30): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Mapa.cpp(7,97): error C2065: 'Interseccion': identificador no declarado
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Mapa.cpp(7,110): error C2059: error de sintaxis: '>'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Mapa.cpp(7,132): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'unknown-type'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Mapa.cpp(7,132): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Mapa.cpp(7,139): error C2065: 'Pasillo': identificador no declarado
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Mapa.cpp(7,147): error C2059: error de sintaxis: '>'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Mapa.cpp(7,162): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'unknown-type'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Mapa.cpp(7,162): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+  Pasillo.cpp
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.h(9,74): error C2065: 'Producto': identificador no declarado
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.h(9): error C2059: error de sintaxis: '>'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.h(9,13): error C2059: error de sintaxis: '>'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.h(9,13): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'unknown-type'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.h(9,13): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.h(19,8): error C2065: 'Producto': identificador no declarado
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.h(19,17): error C2059: error de sintaxis: '>'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.h(19,33): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'unknown-type'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Estanteria.h(19,33): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Pasillo.cpp(2,1): error C2653: 'Pasillo': no es un nombre de clase o espacio de nombres
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Pasillo.cpp(3,1): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Pasillo.cpp(4,1): warning C4508: 'Pasillo': la función debe devolver un valor; se supone que el tipo de valor devuelto es 'void'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Pasillo.cpp(6,1): error C2653: 'Pasillo': no es un nombre de clase o espacio de nombres
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Pasillo.cpp(6,31): error C2065: 'Estanteria': identificador no declarado
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Pasillo.cpp(6,42): error C2059: error de sintaxis: '>'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Pasillo.cpp(6,60): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'unknown-type'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Pasillo.cpp(6,60): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Pasillo.cpp(7,1): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Pasillo.cpp(8,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Pasillo.cpp(9,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Pasillo.cpp(10,1): warning C4508: 'Pasillo': la función debe devolver un valor; se supone que el tipo de valor devuelto es 'void'
+  Producto.cpp
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Producto.cpp(3,1): error C2653: 'Producto': no es un nombre de clase o espacio de nombres
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Producto.cpp(4,1): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Producto.cpp(5,1): warning C4508: 'Producto': la función debe devolver un valor; se supone que el tipo de valor devuelto es 'void'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Producto.cpp(7,1): error C2653: 'Producto': no es un nombre de clase o espacio de nombres
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Producto.cpp(8,1): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Producto.cpp(9,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Producto.cpp(10,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Producto.cpp(11,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Producto.cpp(12,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Producto.cpp(13,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\Producto.cpp(15,1): warning C4508: 'Producto': la función debe devolver un valor; se supone que el tipo de valor devuelto es 'void'
+  ReporteProducto.cpp
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\FormularioProducto.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\FormularioProducto.h(12,105): error C2065: 'Producto': identificador no declarado
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\FormularioProducto.h(12): error C2059: error de sintaxis: '>'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\FormularioProducto.h(12,21): error C2059: error de sintaxis: '>'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\FormularioProducto.h(12,21): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'unknown-type'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\FormularioProducto.h(12,21): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\FormularioProducto.h(26,8): error C2065: 'Producto': identificador no declarado
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\FormularioProducto.h(26,17): error C2059: error de sintaxis: '>'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\FormularioProducto.h(26,33): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'unknown-type'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\FormularioProducto.h(26,33): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\ReporteProducto.cpp(4,1): error C2653: 'ReporteProducto': no es un nombre de clase o espacio de nombres
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\ReporteProducto.cpp(5,1): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\ReporteProducto.cpp(6,1): warning C4508: 'ReporteProducto': la función debe devolver un valor; se supone que el tipo de valor devuelto es 'void'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\ReporteProducto.cpp(8,1): error C2653: 'ReporteProducto': no es un nombre de clase o espacio de nombres
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\ReporteProducto.cpp(8,92): error C2061: error de sintaxis: identificador 'FormularioProducto'
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\ReporteProducto.cpp(9,1): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\ReporteProducto.cpp(10,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\ReporteProducto.cpp(11,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\ReporteProducto.cpp(12,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\ReporteProducto.cpp(13,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\ReporteProducto.cpp(14,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\ReporteProducto.cpp(15,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\ReporteProducto.cpp(16,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\ReporteProducto.cpp(16,30): error C2065: 'AFormularioProducto': identificador no declarado
+C:\Users\capum\OneDrive\Documentos\PUCP\2023-I\EB\Proyecto\auxiliar\ReporteProducto.cpp(17,1): warning C4508: 'ReporteProducto': la función debe devolver un valor; se supone que el tipo de valor devuelto es 'void'
+  ReporteError.cpp
+  Sensor.cpp
+  Robot.cpp
+  Empleado.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generando código...
